@@ -7,3 +7,4 @@ Alur fitur login
 3. Menampilkan halaman home.
 
 menambahkan squash 1
+menambahkan squash 2
