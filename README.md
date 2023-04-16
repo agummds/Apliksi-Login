@@ -6,5 +6,6 @@ Alur fitur login
 2. Memvalidasi masukan.
 3. Menampilkan halaman home.
 
-menambahkan squash 1
-menambahkan squash 2
+menambahkan squash 1  
+menambahkan squash 2  
+menambahkan squash 3  
